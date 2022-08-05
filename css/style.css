@@ -3,8 +3,6 @@
     --main_color2: #011650;
 }
 
-header,
-footer,
 section {
     padding: 100px 0;
 }
@@ -81,7 +79,8 @@ footer {
 /* about */
 .about,
 .program,
-.author {
+.author,
+.buy {
     background-color: #eee;
 }
 
@@ -146,6 +145,10 @@ footer {
 
 .feedback p {
     text-align: left;
+}
+
+footer {
+    padding: 30px 0;
 }
 
 /* color */
